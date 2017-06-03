@@ -1,0 +1,438 @@
+2017-06-03 [18:43:34] [Server thread/WARNING]: 找不到 OpenSSL 扩展,请重新安装PHP,否则无法使用XBox验证 && 材质包功能(开发中).
+2017-06-03 [18:43:34] [Server thread/INFO]: Selected English (eng) as the base language
+2017-06-03 [18:43:34] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-06-03 [18:43:35] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading recipes...
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading resource packs...
+2017-06-03 [18:43:36] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2017-06-03 [18:43:36] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2017-06-03 [18:43:36] [Server thread/EMERGENCY]: RakLib crashed!
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) BossBarAPI v4.0.2
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EconomyAPI v2.0.8
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EconomyJob v2.0.4
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EconomyLand v2.0.8
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EconomySell v2.0.6
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EconomyShop v2.0.6
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EntityKiller v1.0.1
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) EssentialsPE v2.0.0
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) KejuBag v2
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) KejuRPG v1.0.0
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) ManyWorlds v2.1.0
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) PurePerms v1.4.0-INDEV
+2017-06-03 [18:43:36] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2017-06-03 [18:43:36] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2017-06-03 [18:43:36] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) Slapper v1.3.4
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) superBAR v1.5.0
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) TapToDo v2.2.1
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) WorldEdit v1.0
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) MyPlot v1.1.4
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) PureChat v3.0.0-ALPHA5
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) SimpleWarp v3.3.4
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) Specter v0.4
+2017-06-03 [18:43:36] [Server thread/INFO]: Loading (Source) SimplePortals v0.0.6
+2017-06-03 [18:43:36] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'BossBarAPI': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EconomyAPI': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EconomyJob': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EconomyLand': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EconomySell': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EconomyShop': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EntityKiller': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'EssentialsPE': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'KejuBag': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'KejuRPG': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'ManyWorlds': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'MyPlot': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'PureChat': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'PurePerms': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'SimplePortals': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'SimpleWarp': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'Slapper': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'Specter': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'superBAR': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'TapToDo': plugin exists
+2017-06-03 [18:43:36] [Server thread/ERROR]: Could not load plugin 'WorldEdit': plugin exists
+2017-06-03 [18:43:36] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-06-03 [18:43:36] [Server thread/INFO]: Enabling KejuRPG v1.0.0
+2017-06-03 [18:43:36] [Server thread/INFO]: [KejuRPG] HELO
+2017-06-03 [18:43:36] [Server thread/INFO]: Enabling MyPlot v1.1.4
+2017-06-03 [18:43:36] [Server thread/NOTICE]: [MyPlot] Loading...
+2017-06-03 [18:43:36] [Server thread/NOTICE]: [MyPlot] Enabled!
+2017-06-03 [18:43:36] [Server thread/NOTICE]: Level "world" not found
+2017-06-03 [18:43:36] [Server thread/INFO]: Preparing level "world"
+2017-06-03 [18:43:36] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2017-06-03 [18:43:36] [Server thread/NOTICE]: Level "nether" not found
+2017-06-03 [18:43:36] [Server thread/INFO]: 正在生成地狱 nether
+2017-06-03 [18:43:36] [Server thread/INFO]: Preparing level "nether"
+2017-06-03 [18:43:36] [Server thread/NOTICE]: Spawn terrain for level "nether" is being generated in the background
+2017-06-03 [18:43:36] [Server thread/INFO]: Enabling BossBarAPI v4.0.2
+2017-06-03 [18:43:36] [Server thread/INFO]: Enabling EconomyAPI v2.0.8
+2017-06-03 [18:43:36] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-06-03 [18:43:36] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling EconomyJob v2.0.4
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling EconomyLand v2.0.8
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling EconomySell v2.0.6
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling EconomyShop v2.0.6
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling EntityKiller v1.0.1
+2017-06-03 [18:43:37] [Server thread/INFO]: [EntityKiller] EntityKiller by HimbeersaftLP enabled!
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2017-06-03 [18:43:37] [Server thread/INFO]: [EssentialsPE] Loading...
+2017-06-03 [18:43:37] [Server thread/INFO]: [EssentialsPE] SimpleWarp installed, disabling EssentialsPE warps...
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling KejuBag v2
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling PurePerms v1.4.0-INDEV
+2017-06-03 [18:43:37] [Server thread/WARNING]: [PurePerms] Provider 'yaml' does NOT exist. Setting the data provider to default.
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling Slapper v1.3.4
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling superBAR v1.5.0
+2017-06-03 [18:43:37] [Server thread/INFO]: [superBAR] superBAR will be enabled after the complete server load...
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling TapToDo v2.2.1
+2017-06-03 [18:43:37] [Server thread/WARNING]: [TapToDo] Could not load block in level kejucraft because that level is not loaded.
+2017-06-03 [18:43:37] [Server thread/WARNING]: [TapToDo] Could not load block in level kejucraft because that level is not loaded.
+2017-06-03 [18:43:37] [Server thread/WARNING]: [TapToDo] Could not load block in level kejucraft because that level is not loaded.
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling WorldEdit v1.0
+2017-06-03 [18:43:37] [Server thread/INFO]: [WorldEdit] WorldEdit by @GiantAmethyst was enabled
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling PureChat v3.0.0-ALPHA5
+2017-06-03 [18:43:37] [Server thread/NOTICE]: [PureChat] No valid factions plugin in default-factions-plugin node was found. Disabling factions plugin support.
+2017-06-03 [18:43:37] [Server thread/INFO]: Enabling SimpleWarp v3.3.4
+2017-06-03 [18:43:42] [Server thread/INFO]: Enabling Specter v0.4
+2017-06-03 [18:43:42] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-06-03 [18:43:42] [Server thread/EMERGENCY]: Please upload the "/Users/chaostix/Desktop/gen/crashdumps/CrashDump_Sat_Jun_3-18.43.42-CEST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling BossBarAPI v4.0.2
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EconomyAPI v2.0.8
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EconomyJob v2.0.4
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EconomyLand v2.0.8
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EconomySell v2.0.6
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EconomyShop v2.0.6
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EntityKiller v1.0.1
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling EssentialsPE v2.0.0
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling KejuBag v2
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling KejuRPG v1.0.0
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling ManyWorlds v2.1.0
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling PurePerms v1.4.0-INDEV
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling Slapper v1.3.4
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling superBAR v1.5.0
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling TapToDo v2.2.1
+2017-06-03 [18:43:42] [Server thread/INFO]: [TapToDo] Saving blocks...
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling WorldEdit v1.0
+2017-06-03 [18:43:42] [Server thread/INFO]: [WorldEdit] WorldEdit by @GiantAmethyst was disabled
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling MyPlot v1.1.4
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling PureChat v3.0.0-ALPHA5
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling SimpleWarp v3.3.4
+2017-06-03 [18:43:42] [Server thread/INFO]: Disabling Specter v0.4
+2017-06-03 [18:43:42] [Server thread/INFO]: Unloading level "world"
+2017-06-03 [18:43:42] [Server thread/INFO]: Unloading level "nether"
+2017-06-03 [18:44:22] [Server thread/WARNING]: 找不到 OpenSSL 扩展,请重新安装PHP,否则无法使用XBox验证 && 材质包功能(开发中).
+2017-06-03 [18:44:22] [Server thread/INFO]: Selected English (eng) as the base language
+2017-06-03 [18:44:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-06-03 [18:44:23] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-06-03 [18:44:23] [Server thread/INFO]: Loading recipes...
+2017-06-03 [18:44:23] [Server thread/INFO]: Loading resource packs...
+2017-06-03 [18:44:23] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2017-06-03 [18:44:23] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2017-06-03 [18:44:23] [Server thread/EMERGENCY]: RakLib crashed!
+2017-06-03 [18:44:23] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-06-03 [18:44:23] [Server thread/INFO]: Loading (Source) KejuRPG v1.0.0
+2017-06-03 [18:44:23] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-06-03 [18:44:23] [Server thread/ERROR]: Could not load plugin 'KejuRPG': plugin exists
+2017-06-03 [18:44:23] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-06-03 [18:44:23] [Server thread/INFO]: Enabling KejuRPG v1.0.0
+2017-06-03 [18:44:23] [Server thread/INFO]: [KejuRPG] HELO
+2017-06-03 [18:44:24] [Server thread/INFO]: Preparing level "world"
+2017-06-03 [18:44:24] [Server thread/INFO]: Preparing level "nether"
+2017-06-03 [18:44:24] [Server thread/INFO]: Starting GS4 status listener
+2017-06-03 [18:44:24] [Server thread/INFO]: Setting query port to 19132
+2017-06-03 [18:44:24] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-06-03 [18:44:24] [Server thread/INFO]: Default game type: Survival Mode
+2017-06-03 [18:44:24] [Server thread/INFO]: Done (1.726s)! For help, type "help" or "?"
+2017-06-03 [18:44:24] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed
+2017-06-03 [18:45:06] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-06-03 [18:45:06] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-06-03 [18:45:06] [Server thread/INFO]: Disabling KejuRPG v1.0.0
+2017-06-03 [18:45:06] [Server thread/INFO]: Unloading level "world"
+2017-06-03 [18:45:06] [Server thread/INFO]: Unloading level "nether"
+2017-06-03 [18:45:11] [Server thread/INFO]: Stopping other threads
+2017-06-03 [18:45:13] [Server thread/WARNING]: 找不到 OpenSSL 扩展,请重新安装PHP,否则无法使用XBox验证 && 材质包功能(开发中).
+2017-06-03 [18:45:13] [Server thread/INFO]: Selected English (eng) as the base language
+2017-06-03 [18:45:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-06-03 [18:45:13] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-06-03 [18:45:14] [Server thread/INFO]: Loading recipes...
+2017-06-03 [18:45:14] [Server thread/INFO]: Loading resource packs...
+2017-06-03 [18:45:14] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2017-06-03 [18:45:14] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2017-06-03 [18:45:14] [Server thread/EMERGENCY]: RakLib crashed!
+2017-06-03 [18:45:14] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-06-03 [18:45:14] [Server thread/INFO]: Loading (Source) KejuRPG v1.0.0
+2017-06-03 [18:45:14] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-06-03 [18:45:14] [Server thread/ERROR]: Could not load plugin 'KejuRPG': plugin exists
+2017-06-03 [18:45:14] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-06-03 [18:45:14] [Server thread/INFO]: Enabling KejuRPG v1.0.0
+2017-06-03 [18:45:14] [Server thread/INFO]: [KejuRPG] HELO
+2017-06-03 [18:45:14] [Server thread/INFO]: Preparing level "world"
+2017-06-03 [18:45:14] [Server thread/INFO]: Preparing level "nether"
+2017-06-03 [18:45:14] [Server thread/INFO]: Starting GS4 status listener
+2017-06-03 [18:45:14] [Server thread/INFO]: Setting query port to 19132
+2017-06-03 [18:45:14] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-06-03 [18:45:14] [Server thread/INFO]: Default game type: Survival Mode
+2017-06-03 [18:45:14] [Server thread/INFO]: Done (1.681s)! For help, type "help" or "?"
+2017-06-03 [18:45:14] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed
+2017-06-03 [18:45:22] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-06-03 [18:45:22] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-06-03 [18:45:22] [Server thread/INFO]: Disabling KejuRPG v1.0.0
+2017-06-03 [18:45:22] [Server thread/INFO]: Unloading level "world"
+2017-06-03 [18:45:22] [Server thread/INFO]: Unloading level "nether"
+2017-06-03 [18:45:27] [Server thread/INFO]: Stopping other threads
+2017-06-03 [18:45:29] [Server thread/WARNING]: 找不到 OpenSSL 扩展,请重新安装PHP,否则无法使用XBox验证 && 材质包功能(开发中).
+2017-06-03 [18:45:29] [Server thread/INFO]: Selected English (eng) as the base language
+2017-06-03 [18:45:29] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-06-03 [18:45:30] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-06-03 [18:45:30] [Server thread/INFO]: Loading recipes...
+2017-06-03 [18:45:30] [Server thread/INFO]: Loading resource packs...
+2017-06-03 [18:45:30] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2017-06-03 [18:45:30] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2017-06-03 [18:45:30] [Server thread/EMERGENCY]: RakLib crashed!
+2017-06-03 [18:45:30] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-06-03 [18:45:30] [Server thread/INFO]: Loading (Source) KejuRPG v1.0.0
+2017-06-03 [18:45:30] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-06-03 [18:45:30] [Server thread/ERROR]: Could not load plugin 'KejuRPG': plugin exists
+2017-06-03 [18:45:30] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-06-03 [18:45:30] [Server thread/INFO]: Enabling KejuRPG v1.0.0
+2017-06-03 [18:45:30] [Server thread/INFO]: [KejuRPG] HELO
+2017-06-03 [18:45:30] [Server thread/INFO]: Preparing level "world"
+2017-06-03 [18:45:30] [Server thread/INFO]: Preparing level "nether"
+2017-06-03 [18:45:30] [Server thread/INFO]: Starting GS4 status listener
+2017-06-03 [18:45:30] [Server thread/INFO]: Setting query port to 19132
+2017-06-03 [18:45:30] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-06-03 [18:45:30] [Server thread/INFO]: Default game type: Survival Mode
+2017-06-03 [18:45:30] [Server thread/INFO]: Done (0.715s)! For help, type "help" or "?"
+2017-06-03 [18:45:30] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed
+2017-06-03 [18:45:40] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-06-03 [18:45:40] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-06-03 [18:45:40] [Server thread/INFO]: Disabling KejuRPG v1.0.0
+2017-06-03 [18:45:40] [Server thread/INFO]: Unloading level "world"
+2017-06-03 [18:45:40] [Server thread/INFO]: Unloading level "nether"
+2017-06-03 [18:45:45] [Server thread/INFO]: Stopping other threads
+2017-06-03 [18:46:52] [Server thread/WARNING]: 找不到 OpenSSL 扩展,请重新安装PHP,否则无法使用XBox验证 && 材质包功能(开发中).
+2017-06-03 [18:46:52] [Server thread/INFO]: Selected English (eng) as the base language
+2017-06-03 [18:46:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-06-03 [18:46:53] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-06-03 [18:46:53] [Server thread/INFO]: Loading recipes...
+2017-06-03 [18:46:53] [Server thread/INFO]: Loading resource packs...
+2017-06-03 [18:46:53] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-06-03 [18:46:53] [Server thread/INFO]: Loading (Source) KejuRPG v1.0.0
+2017-06-03 [18:46:53] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-06-03 [18:46:53] [Server thread/ERROR]: Could not load plugin 'KejuRPG': plugin exists
+2017-06-03 [18:46:53] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-06-03 [18:46:53] [Server thread/INFO]: Enabling KejuRPG v1.0.0
+2017-06-03 [18:46:53] [Server thread/INFO]: [KejuRPG] HELO
+2017-06-03 [18:46:53] [Server thread/INFO]: Preparing level "world"
+2017-06-03 [18:46:53] [Server thread/INFO]: Preparing level "nether"
+2017-06-03 [18:46:53] [Server thread/INFO]: Starting GS4 status listener
+2017-06-03 [18:46:53] [Server thread/INFO]: Setting query port to 19132
+2017-06-03 [18:46:53] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-06-03 [18:46:53] [Server thread/INFO]: Default game type: Survival Mode
+2017-06-03 [18:46:53] [Server thread/INFO]: Done (1.782s)! For help, type "help" or "?"
+2017-06-03 [18:47:47] [Server thread/NOTICE]: Player data not found for "chaostixzix", creating new profile
+2017-06-03 [18:47:47] [Server thread/INFO]: ChaostixZix[/192.168.8.102:53629] [ClientID: 1.1705753886945E+17] logged in with entity id 1 at (world, 128, 70, 128)
+2017-06-03 [18:48:01] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:01] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:01] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:01] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:01] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:01] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:02] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:03] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:04] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:05] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:06] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:07] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:08] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/CRITICAL]: Could not tick level "world": Call to undefined method pocketmine\network\protocol\MovePlayerPacket::putEntityRuntimeId()
+2017-06-03 [18:48:09] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-06-03 [18:48:09] [Server thread/INFO]: Disabling KejuRPG v1.0.0
+2017-06-03 [18:48:09] [Server thread/INFO]: ChaostixZix[/192.168.8.102:53629] logged out due to Server closed
+2017-06-03 [18:48:09] [Server thread/INFO]: Unloading level "world"
+2017-06-03 [18:48:10] [Server thread/INFO]: Unloading level "nether"
+2017-06-03 [18:48:15] [Server thread/INFO]: Stopping other threads
+2017-06-03 [18:52:35] [Server thread/WARNING]: 找不到 OpenSSL 扩展,请重新安装PHP,否则无法使用XBox验证 && 材质包功能(开发中).
+2017-06-03 [18:52:35] [Server thread/INFO]: Selected English (eng) as the base language
+2017-06-03 [18:52:36] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-06-03 [18:52:36] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-06-03 [18:52:37] [Server thread/INFO]: Loading recipes...
+2017-06-03 [18:52:37] [Server thread/INFO]: Loading resource packs...
+2017-06-03 [18:52:37] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-06-03 [18:52:37] [Server thread/INFO]: Loading (Source) KejuRPG v1.0.0
+2017-06-03 [18:52:37] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-06-03 [18:52:37] [Server thread/ERROR]: Could not load plugin 'KejuRPG': plugin exists
+2017-06-03 [18:52:37] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-06-03 [18:52:37] [Server thread/INFO]: Enabling KejuRPG v1.0.0
+2017-06-03 [18:52:37] [Server thread/INFO]: [KejuRPG] HELO
+2017-06-03 [18:52:37] [Server thread/INFO]: Preparing level "world"
+2017-06-03 [18:52:37] [Server thread/INFO]: Preparing level "nether"
+2017-06-03 [18:52:37] [Server thread/INFO]: Starting GS4 status listener
+2017-06-03 [18:52:37] [Server thread/INFO]: Setting query port to 19132
+2017-06-03 [18:52:37] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-06-03 [18:52:37] [Server thread/INFO]: Default game type: Survival Mode
+2017-06-03 [18:52:37] [Server thread/INFO]: Done (2.121s)! For help, type "help" or "?"
+2017-06-03 [18:52:49] [Server thread/INFO]: ChaostixZix[/192.168.8.102:53629] [ClientID: 1.1705753886945E+17] logged in with entity id 1 at (world, 128, 70, 128)
+2017-06-03 [18:52:54] [Server thread/INFO]: ChaostixZix joined the game
+2017-06-03 [18:54:14] [Server thread/INFO]: ChaostixZix left the game
+2017-06-03 [18:54:14] [Server thread/INFO]: ChaostixZix[/192.168.8.102:53629] logged out due to client disconnect
+2017-06-03 [18:55:33] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-06-03 [18:55:33] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-06-03 [18:55:33] [Server thread/INFO]: Disabling KejuRPG v1.0.0
+2017-06-03 [18:55:33] [Server thread/INFO]: Unloading level "world"
+2017-06-03 [18:55:33] [Server thread/INFO]: Unloading level "nether"
+2017-06-03 [18:55:38] [Server thread/INFO]: Stopping other threads
