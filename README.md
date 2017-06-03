@@ -1,7 +1,5 @@
 KejuProject
 ===================
-![GenisysPro](http://i.imgur.com/R8gExma.jpg)
-
 Supported Version
 -------------
 Game versions supported by `master` branch:
